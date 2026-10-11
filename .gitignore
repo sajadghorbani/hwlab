@@ -1,0 +1,14 @@
+# Generated hardware-design downloads and rendered reports
+/docs/hardware/datasheets/
+/docs/hardware/footprints/
+/docs/hardware/*.pdf
+/docs/hardware/*.html
+
+# Local Python virtual environment
+/.venv/
+
+# VS Code workspace configuration
+/.vscode/
+
+# Local Codex marker/config file
+/.codex
